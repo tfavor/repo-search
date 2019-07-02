@@ -1,0 +1,29 @@
+html, body {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+}
+form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    width: 100px;
+    margin: 10px;
+}
+input[type=text] {
+    text-align: center;
+}
+input[type=submit] {
+
+}
+section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
